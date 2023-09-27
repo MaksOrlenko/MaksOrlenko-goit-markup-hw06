@@ -41,8 +41,7 @@ p {
     text-transform: uppercase ;
     color: #4d5ae5 ;
 }
-.link:hover,
-.link:focus {
+.link:hover , link:focus {
     color: #404bbf ;
 }
 .header-menu-item {
@@ -80,15 +79,16 @@ footer {
 .meditation-menu-items {
 
 }
+span {
+    color: #f4f4fd ;
+}
 .footer-logo {
     font-family: "Raleway", sans-serif ;
     font-weight: 700 ;
     font-size: 18px ;
     line-height: 1.17 ;
     letter-spacing: 0.03em ;
-    text-transform: uppercase
-    color: #4d5ae5 :
+    text-transform: uppercase ;
+    color: #f4f4fd ;
 }
-.footer-p {
-    color-text: #F4F4FD
-}
+
