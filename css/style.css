@@ -22,9 +22,12 @@ span {
     color: #2e2f42 ;
 
 }
-.nav {
+.nav {}
 
+.header-span {
+    color: #2e2f42;
 }
+
 p {
     font-size: 16px ;
     line-height: 1.5 ;
@@ -61,7 +64,8 @@ p {
 .header-contact {
     
 }
-.header-contact-link {
+.header-contact-link:focus,:hover {
+
 }
 .hero {
 }
