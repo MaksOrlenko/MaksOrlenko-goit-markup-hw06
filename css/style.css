@@ -8,8 +8,13 @@ span {
     color: #2e2f42 ;
 }
 .header {
+    font-weight: 500 ;
+    line-height: 1.5 ;
+    letter-spacing: 0.02em ;
+    color: #2e2f42 ;
 }
 .nav {
+
 }
 .header-logo {
     font-family: "Raleway", sans-serif ;
@@ -21,8 +26,12 @@ span {
     color: #4d5ae5 ;
 }
 .header-menu-item {
+    line-height: 1.5 ;
+    letter-spacing: 0.02em ;
+    color: #434455 ;
 }
 .address {
+    font-style: normal 
 }
 .address-list {
 }
