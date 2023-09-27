@@ -48,10 +48,14 @@ p {
     text-transform: uppercase ;
     color: #4d5ae5 ;
 }
-.header-menu-item:focus,:hover {
+.header-menu-item {
     color: #2e2f42 ;
-
 }
+:hover,.focus {
+    color: #404bbf;
+}
+
+
 .address {
     font-style: normal 
 }
