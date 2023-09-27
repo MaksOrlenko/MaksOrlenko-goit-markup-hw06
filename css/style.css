@@ -48,13 +48,9 @@ p {
     text-transform: uppercase ;
     color: #4d5ae5 ;
 }
-.link:hover , link:focus {
-    color: #404bbf ;
-}
-.header-menu-item {
-    line-height: 1.5 ;
-    letter-spacing: 0.02em ;
-    color: #434455 ;
+.header-menu-item:focus,:hover {
+    color: #2e2f42 ;
+
 }
 .address {
     font-style: normal 
