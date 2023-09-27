@@ -30,6 +30,7 @@ p {
     line-height: 1.5 ;
     letter-spacing: 0.02em ;
     color: #434455;
+    text-decoration-color: #F4F4FD ;
 }
 .header-logo {
     font-family: "Raleway", sans-serif ;
@@ -80,6 +81,3 @@ p {
 
 }
 
-.footer-info {
-   color: #F4F4FD ;
-}
