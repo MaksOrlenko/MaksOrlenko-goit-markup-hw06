@@ -1,5 +1,10 @@
+/* latin */
 @font-face {
-    font-family: "Raleway" , "Roboto"
+    font-family: "Raleway" , "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: 
 }
 /**********body******/
 
@@ -17,11 +22,11 @@ body {
     line-height: 1.17 ;
     letter-spacing: 0.03em ;
     text-transform: uppercase
-    color:  #4d5ae5 ;
+    color: #4d5ae5 ;
 }
 
 span [
-    
+
 ]
 
 /***********section1****/
