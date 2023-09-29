@@ -1,5 +1,12 @@
-/**********header******/
-
+@font-face {
+    font-family: "Raleway" , "Roboto"
+}
+/**********body******/
+body {
+    font-family: "Roboto", sans-serif
+    color: #434455 ;
+    background-color:#FFFFFF ;
+}
 
 
 /***********section1****/
