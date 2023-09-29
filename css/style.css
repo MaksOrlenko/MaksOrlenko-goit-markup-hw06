@@ -1,125 +1,27 @@
-font-face {
-    font-family: "roboto","Raleway" ;
-
-}
-.body {
-    font-family: "Roboto", sans-serif ;
-    background-color: #FFFFFF ;
-    color: #434455 ;
-    line-height: 1.5 ;
-    letter-spacing: 0.02em ;
-}
-h2 {
-    font-weight: 500 ;
-    font-size: 20px ;
-    line-height: 1.2 ;
-    letter-spacing: 0.02em
-    color: #2e2f42 ;
-}
-.header-span {
-    color: #2e2f42 ;
-}
-.header {
-    font-weight: 500 ;
-    line-height: 1.5 ;
-    letter-spacing: 0.02em ;
-    color: #2e2f42 ;
-
-}
-.nav {}
-
-.header-span {
-    color: #2e2f42;
-}
-
-p {
-    font-size: 16px ;
-    line-height: 1.5 ;
-    letter-spacing: 0.02em ;
-    color: #434455;
-    text-decoration-color: #F4F4FD ;
-}
-.header-logo {
-    font-family: "Raleway", sans-serif ;
-    font-weight: 700 ;
-    font-size: 18px ;
-    line-height: 1.17 ;
-    letter-spacing: 0.03em ;
-    text-transform: uppercase ;
-    color: #4d5ae5 ;
-}
-.header-menu-item {
-    color: #2e2f42 ;
-}
-:hover,.focus {
-    color: #404bbf;
-}
+/**********header******/
 
 
-.address {
-    font-style: normal 
-}
-.address-list {
-    line-height: 1.5 ;
-    letter-spacing: 0.02em ;
-    color: #2e2f42 ;
-    font-style: normal ;
-}
-.header-contact {
-    
-}
-.header-contact-link:focus,:hover {
 
-}
-.hero {
-    background-color: #2e2f42 ;
-
-}
-h3 {
-    font-size: 56px ;
-    line-height: 1.07 ;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
-}
-
-.hero-title {
-}
-
-.btn {
-    background-color: #4D5AE5;
-    font-weight: 500 ;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff ;
-}
-
-.meditation-header {
-    font-size: 36px ;
-    line-height: 1.11 ;
-    text-align: center ;
-    letter-spacing: 0.02em ;
-    text-transform: capitalize
-    color: #2e2f42 ;
-}
+/***********section1****/
 
 
-footer {
-    background-color:#2e2f42 ;
-}
 
-.meditation-menu-items {
 
-}
-span {
-    color: #f4f4fd ;
-}
-.footer-logo {
-    font-family: "Raleway", sans-serif ;
-    font-weight: 700 ;
-    font-size: 18px ;
-    line-height: 1.17 ;
-    letter-spacing: 0.03em ;
-    text-transform: uppercase ;
-    color: #f4f4fd ;
-}
+/***********sectiom2****/
+
+
+
+
+
+/***********sectiom3*****/
+
+
+
+
+/***********section4****/
+
+
+
+
+
+/***********Footer*****/
