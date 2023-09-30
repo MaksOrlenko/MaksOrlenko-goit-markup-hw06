@@ -4,6 +4,7 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
+    custom-text-color: #F4F4FD ;
 }
 
 .body {
@@ -40,7 +41,7 @@ span {
     color: #2e2f42;
 }
 
-p {
+p:root {
     font-size: 16px ;
     line-height: 1.5 ;
     letter-spacing: 0.02em ;
@@ -159,6 +160,3 @@ footer {
     color: #F4F4FD;
 }
 
-.footer-spn {
-    color: #f4f4fd;
-}
