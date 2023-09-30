@@ -5,7 +5,7 @@
     font-weight: 700;
     font-display: swap;
 }
-}
+
 .body {
     font-family: "Roboto", sans-serif ;
     background-color: #FFFFFF ;
@@ -13,6 +13,7 @@
     line-height: 1.5 ;
     letter-spacing: 0.02em ;
 }
+
 h2 {
     font-weight: 500 ;
     font-size: 20px ;
@@ -20,9 +21,11 @@ h2 {
     letter-spacing: 0.02em
     color: #2e2f42 ;
 }
+
 .header-span {
     color: #2e2f42 ;
 }
+
 .header {
     font-weight: 500 ;
     line-height: 1.5 ;
@@ -43,6 +46,13 @@ p {
     color: #434455;
     text-decoration-color: #F4F4FD ;
 }
+
+body {
+    font-family: "Roboto" , sans-serif ;
+    color: #434455 ;
+    background-color:#FFFFFF;
+}
+
 .header-logo {
     font-family: "Raleway", sans-serif ;
     font-weight: 700 ;
@@ -52,9 +62,11 @@ p {
     text-transform: uppercase ;
     color: #4d5ae5 ;
 }
+
 .header-menu-item {
     color: #2e2f42 ;
 }
+
 :hover,.focus {
     color: #404bbf;
 }
@@ -63,15 +75,18 @@ p {
 .address {
     font-style: normal 
 }
+
 .address-list {
     line-height: 1.5 ;
     letter-spacing: 0.02em ;
     color: #2e2f42 ;
     font-style: normal ;
 }
+
 .header-contact {
     
 }
+
 .header-contact-link:focus,:hover {
 
 }
@@ -79,6 +94,7 @@ p {
     background-color: #2e2f42 ;
 
 }
+
 h3 {
     font-size: 56px ;
     line-height: 1.07 ;
@@ -115,9 +131,11 @@ footer {
 .meditation-menu-items {
 
 }
-span {
+
+footer {
     color: #f4f4fd ;
 }
+
 .footer-logo {
     font-family: "Raleway", sans-serif ;
     font-weight: 700 ;
@@ -126,3 +144,4 @@ span {
     letter-spacing: 0.03em ;
     text-transform: uppercase ;
     color: #f4f4fd ;
+}
