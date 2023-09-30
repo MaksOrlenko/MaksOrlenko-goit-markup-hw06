@@ -35,7 +35,9 @@ span {
     color: #2e2f42 ;
 
 }
-.nav {}
+.nav {
+    color: #4d5ae5 ;
+}
 
 .header-span {
     color: #2e2f42;
@@ -67,6 +69,10 @@ body {
 
 .header-menu-item {
     color: #2e2f42 ;
+    font-weight: 500 ;
+    font-size: 16px ;
+    line-height: 1.5 ;
+    letter-spacing: 0.02em ;
 }
 
 :hover,.focus {
@@ -85,21 +91,36 @@ body {
     font-style: normal ;
 }
 
-.header-contact {
+.header-contact: {
     
 }
 
 
-.header-contact-link:focus,:hover {
+.header-contact-link: {
 
 }
 
+.link:hover {
+    color: #404bbf;
+}
+
+.link:focus {
+    color: #404bbf;
+}
 /***************section1*************/
+h2 {
+    background-color: #F4F4FD ;
+    font-weight: 500 ;
+    font-size: 20px ;
+    line-height: 1.2 ;
+    letter-spacing: 0.02em ;
+}
 
 .hero {
     background-color: #2e2f42 ;
 
 }
+
 
 h3 {
     font-size: 56px ;
