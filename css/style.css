@@ -100,12 +100,12 @@ body {
 
 }
 
-.link:hover {
+.linkheader-contact-link:hover {
     color: #404bbf;
 }
 
-.link:focus {
-    color: #404bbf;
+.header-contact-link:focus {
+    color: #434455;
 }
 /***************section1*************/
 h2 {
