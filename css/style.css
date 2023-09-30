@@ -7,12 +7,23 @@
     custom-text-color: #F4F4FD ;
 }
 
-.body {
-    font-family: "Roboto", sans-serif ;
-    background-color: #FFFFFF ;
-    color: #434455 ;
-    line-height: 1.5 ;
-    letter-spacing: 0.02em ;
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: regular;
+    font-size: 16px;
+    line-height: 1.5; /* 24/16 */
+    letter-spacing: 0.02em;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    font-weight: regular;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
+    color: currentColor;
 }
 
 h2 {
@@ -80,8 +91,8 @@ body {
 }
 
 
-.address {
-    font-style: normal 
+address {
+    font-style: normal;
 }
 
 .address-list {
