@@ -111,7 +111,7 @@ h3 {
 .hero-title {
 }
 
-.hero-btn:focus,:hover {
+.hero-btn: focus,hover {
     font-family: "Roboto", sans-serif ;
     background-color: #4D5AE5;
     font-weight: 500 ;
@@ -128,7 +128,7 @@ h3 {
     line-height: 1.11 ;
     text-align: center ;
     letter-spacing: 0.02em ;
-    text-transform: capitalize
+    text-transform: capitalize ;
     color: #2e2f42 ;
 }
 
@@ -153,4 +153,12 @@ footer {
     letter-spacing: 0.03em ;
     text-transform: uppercase ;
     color: #f4f4fd ;
+}
+
+.footer-spn {
+    color: #f4f4fd;
+}
+
+.footer-text {
+    color: #F4F4FD ;
 }
