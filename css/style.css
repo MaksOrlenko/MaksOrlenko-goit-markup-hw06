@@ -22,9 +22,10 @@ h2 {
     color: #2e2f42 ;
 }
 
-.header-span {
-    color: #2e2f42 ;
+span {
+    color: #2e2f42;
 }
+
 
 .header {
     font-weight: 500 ;
