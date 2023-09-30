@@ -88,9 +88,13 @@ body {
     
 }
 
+
 .header-contact-link:focus,:hover {
 
 }
+
+/***************section1*************/
+
 .hero {
     background-color: #2e2f42 ;
 
@@ -107,12 +111,16 @@ h3 {
 .hero-title {
 }
 
-.btn {
+.hero-btn:focus,:hover {
+    font-family: "Roboto", sans-serif ;
     background-color: #4D5AE5;
     font-weight: 500 ;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
+    font-size: 16px ;
+    line-height: 1.5 ;
+    letter-spacing: 0.04em ;
     color: #ffffff ;
+    cursor: pointer ;
+    
 }
 
 .meditation-header {
