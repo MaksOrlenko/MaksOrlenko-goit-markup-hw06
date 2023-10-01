@@ -4,7 +4,6 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    custom-text-color: #F4F4FD ;
 }
 
 h1,
@@ -14,13 +13,11 @@ h4,
 h5,
 h6,
 
-.span-header {
-    color: #2e2f42 ; 
-}
+/* ====================== HEADER ===================== */
+
 
 body {
     font-family: "Roboto", sans-serif;
-    font-weight: regular ;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -28,13 +25,17 @@ body {
     background-color: #ffffff;
 }
 
-a {
+.header-logo {
     text-decoration: none;
     font-weight: regular;
     font-size: 12px;
     line-height: 2;
     letter-spacing: 0.04em;
     color: currentColor;
+}
+
+.header-span {
+    color: #2e2f42 ; 
 }
 
 .hero-btn:hover {
@@ -45,11 +46,11 @@ a {
 }
 
 h2 {
+    color: #2e2f42 ;
     font-weight: 500 ;
     font-size: 20px ;
     line-height: 1.2 ;
     letter-spacing: 0.02em
-    color: #2e2f42 ;
 }
 
 
@@ -180,28 +181,34 @@ h3 {
     color: #2e2f42 ;
 }
 
-
-footer {
-    background-color:#2e2f42 ;
-}
-
 .meditation-menu-items {
 
 }
 
+/* ======== FOOTER =====*/
+
 footer {
     background-color: #2e2f42 ;
-    color: #f4f4fd ;
 }
 
 .footer-logo {
-    font-family: "Raleway", sans-serif ;
-    font-weight: 700 ;
-    font-size: 18px ;
-    line-height: 1.17 ;
-    letter-spacing: 0.03em ;
-    text-transform: uppercase ;
-    color: #4d5ae5 ;
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.footer-span {
+    color: #f4f4fd;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;    
 }
 
 .footer-text {
