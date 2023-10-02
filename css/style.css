@@ -18,8 +18,9 @@ h6,
 
 body {
     font-family: "Roboto", sans-serif;
+    font-weight: regular;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.5; 
     letter-spacing: 0.02em;
     color: #434455;
     background-color: #ffffff;
@@ -35,7 +36,13 @@ body {
 }
 
 .header-span {
-    color: #2e2f42 ; 
+    color: #2e2f42;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .hero-btn:hover {
