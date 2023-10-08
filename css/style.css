@@ -1,18 +1,16 @@
 body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    font-weight: regular ;
-    background-color: #ffffff;
+    font-family: "Roboto" , sans-serif ;
+    color: #434455 ;
+    font-size: 16px ;
+    line-height: 1.5 ;
+    letter-spacing: 0.02em ;
+    background-color: #FFFFFF ;
 }
 ul {
     list-style-type: none;
 }
 a {
     text-decoration: none;
-    font-weight: regular;
     font-size: 12px;
     line-height: 2;
     letter-spacing: 0.04em;
