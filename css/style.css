@@ -95,8 +95,6 @@ ol {
     line-height: 1.17;
     letter-spacing: 0.03em; 
     text-transform: uppercase;
-    display: flex;
-    align-items: center;
     margin-right: 76px;
 }
 .header-logo-studio {
