@@ -290,24 +290,12 @@ address {
     letter-spacing: 0.02em;
     margin-bottom: 8px;
 }
+.portfolio-text {
+    padding-bottom: 32px;
+}
 
 .portfolio-item {
     flex-basis: calc((100% - 48px) / 3);
-}
-
-.porfolio-photo {
-    margin-bottom: 32px;
-}
-.portfolio-subtitle {
-    color: #2e2f42;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    margin-bottom: 8px;
-}
-.portfolio-text {
-    padding-bottom: 32px;
 }
 
   /* =========================footer======================== */
