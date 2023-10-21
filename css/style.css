@@ -352,6 +352,12 @@ address {
 }
 
   /* ==========================portfolio====================== */
+
+.section-portfolio {
+    padding-top: 120px; 
+    padding-bottom: 120px; 
+}
+
 .portfolio-title {
     color: #2e2f42;
     text-align: center;
