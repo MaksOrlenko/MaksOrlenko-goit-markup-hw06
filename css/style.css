@@ -294,7 +294,6 @@ h3 {
     margin-right: auto;
     margin-left: auto;
     line-height: 1.07;
-    
 }
 
 .post-card-button {
@@ -328,7 +327,7 @@ h3 {
     background: #404bbf;
 }
 
-.header {
+.header-nav {
     background-color: #ffffff;
 }
 
@@ -384,7 +383,6 @@ h3 {
 .item{
     padding-top: 8px;
     margin: 0;
-    
 }
 
 .item-link{
