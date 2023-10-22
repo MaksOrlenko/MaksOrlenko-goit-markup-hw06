@@ -314,6 +314,7 @@ h3 {
     margin-left: auto;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 
+
 }
 
 .post-card-button:hover,
@@ -372,8 +373,6 @@ h3 {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-
-    height: 100%;
 }
 
 
@@ -390,7 +389,6 @@ h3 {
     height: 40px;
     height: 100%;
     width: 100%;
-    
     display: flex;
     align-items: center;
     justify-content: center;
