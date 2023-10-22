@@ -372,21 +372,25 @@ h3 {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+
+    height: 100%;
 }
 
 
 .ellipse{
     padding-top: 8px;
     margin: 0;
-    height: 100% ;
 }
 
 .ellipse-link{
     border-radius: 50%;
     padding: 12px;
     background-color:var(--IRIS, #4D5AE5) ;
-    width: 100% ;
-    height: 100% ;
+    width: 40px;
+    height: 40px;
+    height: 100%;
+    width: 100%;
+    
     display: flex;
     align-items: center;
     justify-content: center;
