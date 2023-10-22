@@ -412,18 +412,16 @@ h3 {
     gap: 24px;
     margin-left: 16px;
     margin-right: 16px;
-    margin-top: 8px; */
+    margin-top: 8px; 
     justify-content: center;
 }
 
 /* ==================portfolio================= */
-
 .portfolio-section{
     padding-top: 120px; 
     padding-bottom: 120px; 
 
 }
-
 .portfolio{
 display: flex;
 flex-wrap: wrap; 
@@ -434,7 +432,6 @@ margin: 0;
 padding-left: 0;
 
 }
-
 
 
 .portfolio-list-item:hover{
