@@ -407,12 +407,12 @@ h3 {
     fill: #F4F4FD;
     
 }
-.our-team-social-links{
+.our-team-social-links {
     display: flex;
     gap: 24px;
     margin-left: 16px;
     margin-right: 16px;
-    margin-top: 8px; 
+    margin-top: 8px;
     justify-content: center;
 }
 
