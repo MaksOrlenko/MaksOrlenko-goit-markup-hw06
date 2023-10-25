@@ -385,10 +385,10 @@ h3 {
 }
 
 .ellipse{
-
+    transform: translateY(0%)
 }
 
-.ellipse-link{
+.ellipse-link {
     width: 40px;
     height: 40px;
     border-radius: 50%;
