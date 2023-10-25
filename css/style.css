@@ -253,9 +253,6 @@ a{
     color: #404bbf;
 }
 
-.transform-p {
-    transform: translateY(0%);
-}
 
 h2 {
     font-size: 36px;
@@ -385,7 +382,7 @@ h3 {
 }
 
 .ellipse{
-    transform: translateY(0%)
+
 }
 
 .ellipse-link {
