@@ -334,7 +334,7 @@ h3 {
     background-color: #ffffff;
 }
 
-/* Team section */
+/* =======================Team================ */
 
 .team {
     padding: 120px 0;
@@ -382,7 +382,7 @@ h3 {
     text-align: center;
   }
 
-  /* Social links*/
+  /* ==================Social=========== */
   .ellipse{
     padding-top: 8px;
     margin: 0;
@@ -419,7 +419,7 @@ h3 {
     justify-content: center;
 }
 
-/* Portfolio  section */
+/* ===============Portfolio========== */
 
 .portfolio-section{
   padding-top: 120px; 
@@ -562,7 +562,7 @@ align-items: baseline;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 1.5; 
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
   color: #FFF;
   margin-bottom: 16px;
