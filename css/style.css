@@ -154,7 +154,7 @@ justify-content: center;
 
 
 
-/* Header */
+/* ===================Header============= */
 
 .header {
   border-bottom: 1px solid #e7e9fc ;
@@ -253,7 +253,7 @@ justify-content: center;
     color: #404bbf;
 }
 
-/* Main-content*/
+
 
 h2 {
     font-size: 36px;
@@ -360,7 +360,7 @@ h3 {
     width: calc((100% - 72px) / 4);
     box-shadow : 0px 1px 6px rgba(46, 47, 66, 0.08), 
     0px 1px 1px rgba(46, 47, 66, 0.16),
-     0px 2px 1px rgba(46, 47, 66, 0.08);
+    0px 2px 1px rgba(46, 47, 66, 0.08);
   }
   .team-name-profession {
     padding: 32px 0;
@@ -384,8 +384,8 @@ h3 {
 
   /* ==================Social=========== */
   .ellipse{
-    padding-top: 8px;
-    margin: 0;
+    /*padding-top: 8px;
+    margin: 0;*/
     
   }
 
@@ -441,9 +441,9 @@ h3 {
 
 
 .portfolio-list-item:hover{
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 
-  0px 1px 1px rgba(46, 47, 66, 0.16),
-   0px 2px 1px rgba(46, 47, 66, 0.08);
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 
+    0px 1px 1px rgba(46, 47, 66, 0.16),
+    0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .portfolio-list-item{
@@ -502,7 +502,7 @@ transform: translateY(0%);
 
 }
 
-/* Footer */
+/* ====================Footer ==============*/
 
 .footer{
   padding: 100px 0 ;
