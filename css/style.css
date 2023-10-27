@@ -770,7 +770,7 @@ color: #ffffff;
   border-color: #4d5ae5;
 }
 
-.overlay-input:focus + .modal-icon {
+.overlay-input:focus + .overlay-icon {
   fill: #4d5ae5;
 }
 
