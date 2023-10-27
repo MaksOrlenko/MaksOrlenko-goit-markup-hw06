@@ -438,7 +438,94 @@
     </li>
     </ul>
     </div>
+    <div class="form-container">
+        <p class="text-subscribe">Subscribe</p>
+        <form class="form">
+            <label class="form-label">
+                <input class="form-input" type="email" name="email-address" placeholder="E-mail" />
+            </label>
+            <button class="button-input" type="submit">Subscribe
+                <svg width="24" height="24" class="icon-plane">
+                    <use href="./images/symbol.svg#icon-subscribe"></use>
+                </svg>
+            </button>
+        </form>
+    </div>
     </div>
     </footer>
-</body> 
-</html>
+    <div class="backdrop is-open">
+    <div class="overlay">
+    <button type="button" class="overlay-btn">
+        <svg class="overlay-btn-icon" width="8" height="8">
+        <use href="./images/symbol.svg#icon-close"></use>
+        </svg>
+        </button>
+        <p class="overlay-title">Leave your contacts and we will call you back</p>
+        <form class="overlay-form">
+        <div class="overlay-field">
+        <label for="user-name" class="overlay-label">Name</label>
+        <div class="overlay-input-wrap">
+            <input
+            type="text"
+            name="user-name"
+            class="overlay-input"
+            id="user-name"/>
+            <svg class="overlay-icon" width="18" height="24">
+            <use href="./images/symbol.svg#icon-person"></use>
+            </svg>
+        </div>
+        </div>
+        <div class="overlay-field">
+        <label for="user-phone" class="overlay-label">Phone</label>
+        <div class="overlay-input-wrap">
+            <input
+                type="email"
+                name="user-phone"
+                class="overlay-input"
+                id="user-phone"/>
+            <svg class="overlay-icon" width="18" height="24">
+                <use href="./images/symbol.svg#icon-phone"></use>
+            </svg>
+            </div>
+        </div>
+        <div class="overlay-field">
+            <label for="user-email" class="overlay-label">Email</label>
+            <div class="overlay-input-wrap">
+            <input
+                type="tel"
+                name="user-email"
+                class="overlay-input"
+                id="user-email"/>
+            <svg class="overlay-icon" width="18" height="24">
+                <use href="./images/symbol.svg#icon-email"></use>
+            </svg>
+            </div>
+        </div>
+        <div class="overlay-field-wrap">
+            <label for="user-comment" class="overlay-label">Comment</label>
+            <textarea
+            name="user-comment"
+            id="user-comment"
+            class="overlay-text"
+            placeholder="Text input">
+            </textarea>
+        </div>
+        <div class="overlay-checkbox">
+            <input
+            type="checkbox"
+            name="user-privacy"
+            id="user-privacy"
+            value="true"
+            class="check-input visually-hidden"/>
+            <label for="user-privacy" class="check-text"><span class="overlay-span">
+                <svg class="overlay-checkbox-icon" width="10" height="8">
+                <use href="./images/click.svg#icon-Vector"></use>
+                </svg></span>I accept the terms and conditions of the
+            <a href="" class="overlay-link">Privacy Policy</a></label>
+        </div>
+        <button class="overlay-btn-send" type="submit">Send</button>
+        </form>
+    </div>
+    </div>
+    </body> 
+    </html>
